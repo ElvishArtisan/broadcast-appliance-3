@@ -5,3 +5,9 @@
 2014-09-08 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'isolinux/RPM-GPG-KEY-adobe-linux'.
 	* Updated the 'paravel_install3' package to v3.1.3.
+2014-09-08 Fred Gleason <fredg@paravelsystems.com>
+	* Renamed 'isolinux/ks/rivendell-efi.cfg' to
+	'isolinux/ks/rivendell.cfg'.
+	* Added 'isolinux/ks/rivendell-network.cfg'.
+	* Updated 'isolinux/isolinux/isolinux.cfg'.
+	* Updated 'build_iso.sh' to burn DVDs using wodim(1).

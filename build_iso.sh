@@ -27,7 +27,7 @@ BURN_FLAG=$2
 #
 # Site Defines
 #
-APPLIANCE_ROOT=/root/ba/centos7.0/x86_64
+APPLIANCE_ROOT=/root/ba/centos7/x86_64
 APPLICATION_ID="Rivendell"
 PUBLISHER_ID="ParavelSystems"
 
@@ -71,7 +71,8 @@ if [ -z $BURN_FLAG ] ; then
   exit 0
 fi
 echo "Starting CD burn."
-cdrecord dev=1,0,0 $TARGET_ISO
+wodim -v -eject $TARGET_ISO
+#cdrecord dev=1,0,0 $TARGET_ISO
 #growisofs -dvd-compat -Z /dev/dvd=$TARGET_ISO
 echo
 echo "ISO and CD burn complete!"
