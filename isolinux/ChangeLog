@@ -11,3 +11,5 @@
 	* Added 'isolinux/ks/rivendell-network.cfg'.
 	* Updated 'isolinux/isolinux/isolinux.cfg'.
 	* Updated 'build_iso.sh' to burn DVDs using wodim(1).
+2014-09-08 Fred Gleason <fredg@paravelsystems.com>
+	* Removed 'isolinux/ks/rivendell-bios.cfg'.

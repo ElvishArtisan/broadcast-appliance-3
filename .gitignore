@@ -9,5 +9,14 @@ isolinux/LiveOS/
 isolinux/Packages/
 isolinux/RPM-GPG-KEY-CentOS-7
 isolinux/RPM-GPG-KEY-CentOS-Testing-7
-isolinux/isolinux
-isolinux/repodata
+isolinux/isolinux/boot.cat
+isolinux/isolinux/boot.msg
+isolinux/isolinux/grub.conf
+isolinux/isolinux/initrd.img
+isolinux/isolinux/isolinux.bin
+isolinux/isolinux/memtest
+isolinux/isolinux/splash.png
+isolinux/isolinux/upgrade.img
+isolinux/isolinux/vesamenu.c32
+isolinux/isolinux/vmlinuz
+isolinux/repodata/
