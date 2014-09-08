@@ -1,0 +1,13 @@
+*~
+TRANS.TBL
+isolinux/CentOS_BuildTag
+isolinux/EFI/
+isolinux/EULA
+isolinux/GPL
+isolinux/images/
+isolinux/LiveOS/
+isolinux/Packages/
+isolinux/RPM-GPG-KEY-CentOS-7
+isolinux/RPM-GPG-KEY-CentOS-Testing-7
+isolinux/isolinux
+isolinux/repodata
