@@ -13,3 +13,5 @@
 	* Updated 'build_iso.sh' to burn DVDs using wodim(1).
 2014-09-08 Fred Gleason <fredg@paravelsystems.com>
 	* Removed 'isolinux/ks/rivendell-bios.cfg'.
+2014-09-08 Fred Gleason <fredg@paravelsystems.com>
+	* Authored as broadcast_appliance-DVD-3.7.0.BETA01-x86_64.
