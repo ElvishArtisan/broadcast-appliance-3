@@ -1,4 +1,7 @@
 2014-09-08 Fred Gleason <fredg@paravelsystems.com>
 	* Initial package creation.
 2014-09-08 Fred Gleason <fredg@paravelsystems.com>
-	* Added README.
+	* Added 'README'.
+2014-09-08 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'isolinux/RPM-GPG-KEY-adobe-linux'.
+	* Updated the 'paravel_install3' package to v3.1.3.
