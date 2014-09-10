@@ -32,6 +32,16 @@ APPLICATION_ID="Rivendell"
 PUBLISHER_ID="ParavelSystems"
 
 #
+# Check Manifest
+#
+./check_manifest.sh
+if test $? -ne 0 ; then
+  echo "Failed manifest check, exiting..."
+  echo
+  exit 256
+fi
+
+#
 # Clean Tree
 #
 find $APPLIANCE_ROOT -name \*~ -exec rm \{\} \;

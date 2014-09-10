@@ -18,3 +18,5 @@
 2014-09-09 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'isolinux/ks/rivendell-bios.cfg'.
 	* Added 'isolinux/ks/rivendell-combo.cfg'.
+2014-09-09 Fred Gleason <fredg@paravelsystems.com>
+	* Added a manifest consistency check to 'make_iso.sh'.
