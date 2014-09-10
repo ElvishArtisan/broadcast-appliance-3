@@ -21,5 +21,5 @@ cat MANIFEST.diff
 rm -f MANIFEST.diff MANIFEST.tmp
 echo
 
-exit 256
+exit 127
 

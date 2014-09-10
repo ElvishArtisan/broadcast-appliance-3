@@ -20,3 +20,7 @@
 	* Added 'isolinux/ks/rivendell-combo.cfg'.
 2014-09-09 Fred Gleason <fredg@paravelsystems.com>
 	* Added a manifest consistency check to 'make_iso.sh'.
+2014-09-10 Fred Gleason <fredg@paravelsystems.com>
+	* Updated 'rivendell' packages to 2.9.1.
+	* Updated 'isolinux/ks/rivendell-network.cfg' to use automatic
+	boot environment detection.

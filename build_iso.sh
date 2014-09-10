@@ -35,10 +35,11 @@ PUBLISHER_ID="ParavelSystems"
 # Check Manifest
 #
 ./check_manifest.sh
+
 if test $? -ne 0 ; then
   echo "Failed manifest check, exiting..."
   echo
-  exit 256
+  exit 127
 fi
 
 #
