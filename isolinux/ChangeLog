@@ -15,3 +15,6 @@
 	* Removed 'isolinux/ks/rivendell-bios.cfg'.
 2014-09-08 Fred Gleason <fredg@paravelsystems.com>
 	* Authored as broadcast_appliance-DVD-3.7.0.BETA01-x86_64.
+2014-09-09 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'isolinux/ks/rivendell-bios.cfg'.
+	* Added 'isolinux/ks/rivendell-combo.cfg'.
