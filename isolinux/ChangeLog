@@ -25,3 +25,12 @@
 	boot environment detection.
 2014-09-11 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'isolinux/RPM-GPG-KEY-adobe-linux'.
+	* Removed 'isolinux/ks/rivendell-bios.cfg'.
+	* Removed 'isolinux/ks/rivendell-old.cfg'.
+	* Removed 'isolinux/ks/rivendell-uefi.cfg'.
+	* Upgraded 'paravel_install3' to 3.1.4.
+	* Upgraded 'hpklinux' to '4.13.00-3'.
+	* Added 'Paravel-Commercial' repository to
+	'isolinux/ks/rivendell-combo.cfg'.
+	* Added 'Paravel-Commercial' repository to
+	'isolinux/ks/rivendell-network.cfg'.
