@@ -34,3 +34,12 @@
 	'isolinux/ks/rivendell-combo.cfg'.
 	* Added 'Paravel-Commercial' repository to
 	'isolinux/ks/rivendell-network.cfg'.
+2014-09-18 Fred Gleason <fredg@paravelsystems.com>
+	* Upgraded 'paravel_install3' to '3.1.4-1'.
+	* Upgraded 'hpklinux' to '4.13.00-3'.
+	* Added 'isolinux/ks/rivendell-raid1_2_0.cfg'.
+	* Upgraded 'rivendell' to 2.9.3.
+	* Updated 'isolinux/ks/rivendell-raid1_2_0.cfg' to copy bootloader
+	to non-boot discs.
+	* Updated 'isolinux/ks/rivendell-raid1_3_0.cfg' to copy bootloader
+	to non-boot discs.
