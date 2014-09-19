@@ -43,3 +43,6 @@
 	to non-boot discs.
 	* Updated 'isolinux/ks/rivendell-raid1_3_0.cfg' to copy bootloader
 	to non-boot discs.
+2014-09-18 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'sdc' to the 'clearpart' section in
+	'isolinux/ks/rivendell-raid1_3_0.cfg'.
