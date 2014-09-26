@@ -46,3 +46,5 @@
 2014-09-18 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'sdc' to the 'clearpart' section in
 	'isolinux/ks/rivendell-raid1_3_0.cfg'.
+2014-09-26 Fred Gleason <fredg@paravelsystems.com>
+	* Authored as broadcast_appliance-DVD-3.7.0.BETA01-x86_64.
