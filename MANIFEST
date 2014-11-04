@@ -2820,12 +2820,11 @@ isolinux/Packages/rfkill-0.4-9.el7.x86_64.rpm
 isolinux/Packages/rhdb-utils-9.2.0-5.el7.x86_64.rpm
 isolinux/Packages/rhino-1.7R4-4.el7.noarch.rpm
 isolinux/Packages/rhythmbox-2.99.1-3.el7.x86_64.rpm
-isolinux/Packages/rivendell-2.9.3-1.x86_64.rpm
-isolinux/Packages/rivendell-base-2.9.3-1.x86_64.rpm
-isolinux/Packages/rivendell-debuginfo-2.9.3-1.x86_64.rpm
-isolinux/Packages/rivendell-devel-2.9.3-1.x86_64.rpm
-isolinux/Packages/rivendell-importers-2.9.3-1.x86_64.rpm
-isolinux/Packages/rivendell-select-2.9.3-1.x86_64.rpm
+isolinux/Packages/rivendell-2.10.1-1.x86_64.rpm
+isolinux/Packages/rivendell-base-2.10.1-1.x86_64.rpm
+isolinux/Packages/rivendell-devel-2.10.1-1.x86_64.rpm
+isolinux/Packages/rivendell-importers-2.10.1-1.x86_64.rpm
+isolinux/Packages/rivendell-select-2.10.1-1.x86_64.rpm
 isolinux/Packages/rmt-1.5.2-11.el7.x86_64.rpm
 isolinux/Packages/rngom-201103-0.8.20120119svn.el7.noarch.rpm
 isolinux/Packages/rng-tools-4-5.el7.x86_64.rpm

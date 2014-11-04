@@ -48,3 +48,5 @@
 	'isolinux/ks/rivendell-raid1_3_0.cfg'.
 2014-09-26 Fred Gleason <fredg@paravelsystems.com>
 	* Authored as broadcast_appliance-DVD-3.7.0.BETA01-x86_64.
+2014-11-04 Fred Gleason <fredg@paravelsystems.com>
+	* Updated 'rivendell' to 2.10.1.
